@@ -2,6 +2,8 @@
 
 This project is a tiny visual playground for plotting common envelope curves so they are easier to imagine and understand. It renders the curves in the browser and is meant only for visual exploration.
 
+Link: https://ezpn.github.io/tonejs-envelope-curves/
+
 ## What it does
 - Draws envelope curves (attack/decay/release shapes) on a canvas/graph.
 - Helps compare and reason about curve shapes at a glance.
